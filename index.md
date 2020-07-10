@@ -13,7 +13,7 @@ I am interested in Artificial Intelegence, Computer Vision, Image Processing and
 
 
 ### Education
-1) Master student in the Computer Science Department at the Ben-Gurion University of the Negev (2019-now).
+* Master student in the Computer Science Department at the Ben-Gurion University of the Negev (2019-now).
   * <ins>Thesis</ins>: Recoverable Algorithms in HPC Systems Using NVRAM Technology.
   * <ins>Supervisors</ins>: Danny hendler and Hagit Attiya.
-2) First degree in computer science and mathematics at Tel Aviv university, graduated with distinction (2016-2019).
+* First degree in computer science and mathematics at Tel Aviv university, graduated with distinction (2016-2019).
