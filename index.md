@@ -1,5 +1,5 @@
 ## Yehonatan Fridman
-image: /assets/images/profile_image
+image: /assets/images/profile_image.jpg
 ### About Myself
 I'm a computer scientist, studying for my Master degree in the Computer Science Department at the Ben-Gurion University of the Negev.
 I am interested in Artificial Intelegence, Computer Vision, Image Processing and Parallel Computing.
