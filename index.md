@@ -4,9 +4,12 @@ I'm a master student in the Computer Science Department at the Ben-Gurion Univer
 
 ### E-mail & Links
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+yehonatan123f@gmail.com
+fridyeh@post.bgu.ac.il
+ResearchGate account: https://www.researchgate.net/profile/Yehonatan_Fridman
+
 
 
 ### Education
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings]
+1) Master student in the Computer Science Department at the Ben-Gurion University of the Negev.
+2) First degree in computer science and mathematics at Tel Aviv university, graduated with distinction.
