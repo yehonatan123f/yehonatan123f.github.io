@@ -1,6 +1,8 @@
 ## Yehonatan Fridman
 
-I'm a master student in the Computer Science Department at the Ben-Gurion University of the Negev. My research field is "Recoverable Algorithms in HPC Systems Using NVRAM Technology". I am also interested in Parallel Computing, Artificial Intelegence, Computer Vision and Image Processing.
+### About Myself
+I'm a computer scientist. Studying for my master degree in the Computer Science Department at the Ben-Gurion University of the Negev.
+I am interested in Artificial Intelegence, Computer Vision, Image Processing and Parallel Computing.
 
 ### E-mail & Links
 
