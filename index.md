@@ -2,34 +2,11 @@
 
 I'm a master student in the Computer Science Department at the Ben-Gurion University of the Negev. My research field is "Recoverable Algorithms in HPC Systems Using NVRAM Technology". I am also interested in Parallel Computing, Artificial Intelegence, Computer Vision and Image Processing.
 
-### Markdown
+### E-mail & Links
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Education
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yehonatan123f/.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings]
