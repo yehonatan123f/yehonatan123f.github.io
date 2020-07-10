@@ -4,9 +4,9 @@ I'm a master student in the Computer Science Department at the Ben-Gurion Univer
 
 ### E-mail & Links
 
-yehonatan123f@gmail.com
-fridyeh@post.bgu.ac.il
-ResearchGate account: https://www.researchgate.net/profile/Yehonatan_Fridman
+* yehonatan123f@gmail.com
+* fridyeh@post.bgu.ac.il
+* [my ResearchGate account](https://www.researchgate.net/profile/Yehonatan_Fridman)
 
 
 
