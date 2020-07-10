@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Yehonatan Fridman
 
-You can use the [editor on GitHub](https://github.com/yehonatan123f/.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a master student in the Computer Science Department at the Ben-Gurion University of the Negev. My research field is "Recoverable Algorithms in HPC Systems Using NVRAM Technology". I am also interested in Parallel Computing, Artificial Intelegence, Computer Vision and Image Processing.
 
 ### Markdown
 
