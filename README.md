@@ -10,3 +10,4 @@ Running is my favorite exercise.
 * yehonatan123f@gmail.com
 * fridyeh@post.bgu.ac.il
 * [my ResearchGate account](https://www.researchgate.net/profile/Yehonatan_Fridman)
+* [my LinkedIn profile](www.linkedin.com/in/yehonatan-fridman-2a33a521a)
