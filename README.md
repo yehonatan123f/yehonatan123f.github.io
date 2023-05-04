@@ -1,9 +1,9 @@
 ## Yehonatan Fridman
 
 ### About
-I'm a computer scientist, studying for my Master degree in the Computer Science Department at the Ben-Gurion University of the Negev.
-I am interested in Artificial Intelegence, Computer Vision, Image Processing and Parallel Computing.
-Running is my favorite exercise.
+I am a Researcher and Algorithms Developer at the Israel Atomic Energy Commission (since 2019), as well as a Ph.D. student in the Computer Science Department at Ben-Gurion University. My primary interests lie in the fields of High-Performance Computing, Parallel Computing, Algorithms, Artificial Intelligence, Computer Vision, and Image Processing.
+
+Running is my favorite exercise!
 
 ### E-mail & Links
 
