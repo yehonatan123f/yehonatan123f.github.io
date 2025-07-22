@@ -1,9 +1,9 @@
 ## Yehonatan Fridman
 
 ### About
-I am a Researcher and Algorithms Developer at the Israel Atomic Energy Commission (since 2019), as well as a Ph.D. student in the Computer Science Department at Ben-Gurion University. My primary interests lie in the fields of High-Performance Computing, Parallel Computing, Algorithms, Artificial Intelligence, Computer Vision, and Image Processing.
+I am a Researcher and Algorithms Developer at the Israel Atomic Energy Commission (since 2019), as well as a Ph.D. student in the Computer Science Department at Ben-Gurion University. My primary interests lie in the fields of High-Performance Computing, Parallel and Distributed Computing, Algorithms, Artificial Intelligence, Computer Vision, and Image Processing.
 
-Running is my favorite exercise!
+Spinning is my favorite exercise!
 
 ### E-mail & Links
 
