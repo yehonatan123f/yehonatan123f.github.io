@@ -1,0 +1,280 @@
+:root {
+    --bg: #f8fafc;
+    --text: #1f2933;
+    --muted: #5f6b7a;
+    --link: #0b6b62;
+    --line: #d9e2ec;
+    --section: #eef3f8;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    color: var(--link);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:focus-visible {
+    outline: 3px solid rgba(11, 107, 98, 0.25);
+    outline-offset: 3px;
+}
+
+.skip-link {
+    position: fixed;
+    left: 1rem;
+    top: 1rem;
+    z-index: 10;
+    padding: 0.6rem 0.8rem;
+    background: var(--text);
+    color: #fff;
+    transform: translateY(-150%);
+}
+
+.skip-link:focus {
+    transform: translateY(0);
+}
+
+.page {
+    width: min(960px, calc(100% - 2rem));
+    margin: 0 auto;
+    padding: 2rem 0 4rem;
+}
+
+.site-header {
+    display: grid;
+    grid-template-columns: 210px minmax(0, 1fr);
+    gap: 2rem;
+    align-items: center;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--line);
+}
+
+.profile-photo {
+    width: 210px;
+    aspect-ratio: 1;
+    border-radius: 0.5rem;
+    object-fit: cover;
+    object-position: center;
+}
+
+.kicker {
+    margin: 0 0 0.45rem;
+    color: var(--muted);
+    font-size: 0.95rem;
+    font-weight: 600;
+}
+
+h1,
+h2,
+h3,
+p {
+    margin-top: 0;
+}
+
+h1 {
+    margin-bottom: 0.75rem;
+    font-size: clamp(2.2rem, 5vw, 3.4rem);
+    line-height: 1.05;
+    letter-spacing: 0;
+}
+
+h2 {
+    margin-bottom: 1rem;
+    font-size: 1.65rem;
+    line-height: 1.2;
+}
+
+h3 {
+    margin-bottom: 0.25rem;
+    font-size: 1.05rem;
+    line-height: 1.35;
+}
+
+p,
+li {
+    color: var(--muted);
+    font-size: 1rem;
+    line-height: 1.65;
+}
+
+strong {
+    color: var(--text);
+}
+
+.summary {
+    max-width: 44rem;
+    margin-bottom: 1rem;
+    color: var(--text);
+    font-size: 1.08rem;
+}
+
+.links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem 1rem;
+}
+
+.links a,
+.site-nav a {
+    font-weight: 600;
+}
+
+.site-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem 1.25rem;
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--line);
+}
+
+main > section {
+    padding: 2.25rem 0;
+    border-bottom: 1px solid var(--line);
+}
+
+.about {
+    background: var(--section);
+    margin-top: 1.5rem;
+    padding: 1.25rem;
+    border: 0;
+    border-radius: 0.5rem;
+}
+
+.about p:last-child,
+.simple-list p:last-child,
+.publication-list p:last-child {
+    margin-bottom: 0;
+}
+
+.simple-list,
+.publication-list,
+.award-list {
+    margin: 0;
+    padding-left: 1.25rem;
+}
+
+.simple-list li,
+.publication-list li,
+.award-list li {
+    margin-bottom: 1.1rem;
+}
+
+.simple-list li:last-child,
+.publication-list li:last-child,
+.award-list li:last-child {
+    margin-bottom: 0;
+}
+
+.meta,
+.publication-list span,
+.award-list span {
+    color: var(--text);
+    font-weight: 700;
+}
+
+.publication-list li {
+    padding-left: 0.2rem;
+}
+
+.publication-list span {
+    display: inline-block;
+    min-width: 3.2rem;
+}
+
+.publication-list p {
+    display: inline;
+}
+
+.award-list span {
+    margin-right: 0.4rem;
+}
+
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.5rem;
+}
+
+figure {
+    margin: 0;
+}
+
+figure img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    border-radius: 0.5rem;
+    object-fit: cover;
+}
+
+.gallery-image-portrait {
+    aspect-ratio: 3 / 4;
+}
+
+figcaption {
+    margin-top: 0.55rem;
+    color: var(--muted);
+    font-size: 0.95rem;
+    line-height: 1.45;
+}
+
+@media (max-width: 720px) {
+    .page {
+        width: min(100% - 1.25rem, 42rem);
+        padding-top: 1rem;
+    }
+
+    .site-header {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .profile-photo {
+        width: min(100%, 13rem);
+    }
+
+    .links,
+    .site-nav {
+        gap: 0.5rem 0.9rem;
+    }
+
+    main > section {
+        padding: 1.8rem 0;
+    }
+
+    .about {
+        margin-top: 1rem;
+        padding: 1rem;
+    }
+
+    .publication-list p {
+        display: block;
+        margin-top: 0.25rem;
+    }
+
+    .gallery-grid {
+        grid-template-columns: 1fr;
+    }
+}
